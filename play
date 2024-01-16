@@ -1,0 +1,5 @@
+from playsound import playsound
+print("hy birthday Girl")
+a=int(input("Enter a number="))
+if a>=0:
+    playsound("C:\\Users\\hp\\Downloads\\minions_happy_birthd.mp3")
